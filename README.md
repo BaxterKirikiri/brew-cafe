@@ -1,4 +1,4 @@
-# Brew Overview
+## Brew Overview
 
 Brew is a system made of two React PWAs. One is used by the cafe operator and one is used by customers. The idea is that Brew replaces the use of physical loyalty cards with a digital app. The basic usage goes as follows:
 
